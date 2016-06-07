@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1435374912 source:/home/eduardo/Documents/UFRGS/ED/Trabalho Final/Trabalho Final de ED 2015/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"cabeca.h"
+
+1435373641 source:/home/eduardo/Documents/UFRGS/ED/Trabalho Final/Trabalho Final de ED 2015/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cabeca.h"
+
+1435372006 /home/eduardo/Documents/UFRGS/ED/Trabalho Final/Trabalho Final de ED 2015/cabeca.h
+
+1435540382 source:c:\users\eduardo\documents\ufrgs\ed\trabalho final de ed 2015\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cabeca.h"
+
+1435539242 c:\users\eduardo\documents\ufrgs\ed\trabalho final de ed 2015\cabeca.h
+
+1435540427 source:c:\users\eduardo\documents\ufrgs\ed\trabalho final de ed 2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"cabeca.h"
+	<time.h>
+
+1435594113 source:c:\users\esbrito\downloads\trabalho final de ed 2015\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cabeca.h"
+
+1435582294 c:\users\esbrito\downloads\trabalho final de ed 2015\cabeca.h
+
+1435594113 source:c:\users\esbrito\downloads\trabalho final de ed 2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"cabeca.h"
+	<time.h>
+
